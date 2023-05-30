@@ -12,4 +12,3 @@ pip install -r requirements.txt
 python3 main.py
 
 ```
-open source with a [public repository](https://ulease.in:8181/docs#/code/files_download_code__get) on GitHub.
