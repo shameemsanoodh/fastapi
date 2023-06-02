@@ -1,0 +1,8 @@
+#!/bin/bash
+
+export EASTVANTAGE_DB_PORT=your_port
+export EASTVANTAGE_DB_HOST=your_host
+export EASTVANTAGE_DEFAULT_DB=defaultdb
+export EASTVANTAGE_DB_NAME=your_db_name
+export EASTVANTAGE_DB_USER=doadmin
+export EASTVANTAGE_DB_PWD=your_passw
