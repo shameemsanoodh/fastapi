@@ -9,6 +9,10 @@ Install the dependencies from requiremnets and start the server.
 
 cd eastvantage
 pip install -r requirements.txt
+## edit env_vars.txt and pass your db parameters
+
+source env_vars.txt
+python3 create_db.py
 python3 main.py
 
 ```
